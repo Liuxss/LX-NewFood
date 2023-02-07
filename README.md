@@ -1,4 +1,4 @@
-# LX-NewFood :apple:
+# LX NewFood
 
-- :computer:&nbsp;&nbsp;asd
-- :briefcase:&nbsp;&nbsp;asd
+- :corn: &nbsp;&nbsp;asd
+- :apple: &nbsp;&nbsp;asd
