@@ -10,3 +10,8 @@ Also add new tools and blocks.<br>
 The mod is still in testing mode so there may be bugs or errors.<br>
 You can also change the textures and functions of the mod.<br>
 </p>
+<h2>Credits</h2>
+<div>
+<a href="blockbench.net"><img src="https://www.blockbench.net/images/logos/blockbench_logo_text.png" width="25%"></a>
+<a href="mcreator.net"><img src="https://mcreator.net/themes/mcreator/logo.svg" width="25%"></a>
+</div>
