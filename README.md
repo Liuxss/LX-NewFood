@@ -1,5 +1,5 @@
 # **LX NewFood**    
-![Banner](/img/)  
+![Banner](/img/banner_lx_nf_hd.png)  
 ## :corn: **Introduction**  
 **Corn Delight** is an addon of **Farmer's Delight** that add corn and foods about corn.  
 Like other crops, corn has it's own wild crop: wild corn.  
