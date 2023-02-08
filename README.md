@@ -3,7 +3,7 @@
 <h2 align="left">:corn: Information :corn:</h2>
 <p align="left">
 LX New Food is a mod that adds a variety of plants and food.<br>
-Also add new tools and blocks like knives, refrigerators and stoves.<br>
+Also add new tools and blocks.<br>
 </p>
 <h2>:warning: Warning :warning:</h2>
 <p align="left">
