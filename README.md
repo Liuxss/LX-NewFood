@@ -12,6 +12,6 @@ You can also change the textures and functions of the mod.<br>
 </p>
 <h2>Credits</h2>
 <div>
-<a href="blockbench.net"><img src="https://www.blockbench.net/images/logos/blockbench_logo_text.png" width="25%"></a>
-<a href="mcreator.net"><img src="https://mcreator.net/themes/mcreator/logo.svg" width="25%"></a>
+<a href="https://www.blockbench.net"><img src="https://www.blockbench.net/images/logos/blockbench_logo_text.png" width="25%"></a>
+<a href="https://mcreator.net"><img src="https://mcreator.net/themes/mcreator/logo.svg" width="25%"></a>
 </div>
