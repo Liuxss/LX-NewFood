@@ -1,7 +1,7 @@
 <h1 align="center">:apple: LX New Food :apple:</h1>
 <div align="center"><img src="/img/banner_lx_nf_hd.png" width="50%"></div>
 <h2 align="center">:corn: Information :corn:</h2>
-<p style="text-align: justify">
+<p align="left">
 LX New Food is a mod that adds a variety of plants and food.<br>
 Also add new tools and blocks.<br>
 </p>
