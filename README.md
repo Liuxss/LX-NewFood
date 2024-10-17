@@ -1,4 +1,4 @@
-<h1 align="left">:apple: LX New Food :apple:</h1>
+<h1 align="center">:apple: LX New Food :apple:</h1>
 <div align="left"><img src="/img/banner_lx_nf_hd.png" width="50%"></div>
 <h2 align="left">:corn: Information :corn:</h2>
 <p align="left">
