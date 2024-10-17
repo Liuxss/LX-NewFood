@@ -17,7 +17,7 @@ You can also change the textures and functions of the mod.<br>
 <li>Refrigerators.</li>
 </ul>
 <h2 align="center">:1st_place_medal: Credits :1st_place_medal:</h2>
-<div>
+<div align="center">
 <a href="https://www.blockbench.net"><img src="https://www.blockbench.net/images/logos/blockbench_logo_text.png" width="25%"></a>
 <a href="https://mcreator.net"><img src="https://mcreator.net/themes/mcreator/logo.svg" width="25%"></a>
 </div>
