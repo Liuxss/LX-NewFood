@@ -18,6 +18,6 @@ You can also change the textures and functions of the mod.<br>
 </ul>
 <h2 align="center">:1st_place_medal: Credits :1st_place_medal:</h2>
 <div align="center">
-<a target="_blank" href="https://www.blockbench.net"><img src="https://www.blockbench.net/_nuxt/dc80fd589cb46f0c5235e44375841ab2.svg" width="25%"></a>
-<a target="_blank" href="https://mcreator.net"><img src="https://mcreator.net/themes/mcreator/logo_halloween.svg" width="25%"></a>
+<a href="https://www.blockbench.net" target="_blank"><img src="https://www.blockbench.net/_nuxt/dc80fd589cb46f0c5235e44375841ab2.svg" width="25%"></a>
+<a href="https://mcreator.net" target="_blank"><img src="https://mcreator.net/themes/mcreator/logo_halloween.svg" width="25%"></a>
 </div>
